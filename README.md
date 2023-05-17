@@ -20,6 +20,7 @@ This is a simple Arkanoid game implemented in Java.
 
 1. Clone the repository: `git clone https://github.com/OmrArad/arkanoid.git`
 2. Navigate to the project directory: `cd arkanoid`
+3. Unzip ass6.zip
 
 ## Build and Run
 
